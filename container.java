@@ -11,7 +11,7 @@ public class container {
 
     // Default Constructor.
     public container() {
-
+        size = 0;
     }
     
     // Overloaded Constructor.

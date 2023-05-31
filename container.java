@@ -1,3 +1,10 @@
+
+/**
+ * Notes:
+ * 
+ */
+
+ 
 public class container {
     private char[] arr;
     private int size;
